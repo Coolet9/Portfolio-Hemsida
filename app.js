@@ -1,0 +1,1 @@
+alert [You need to be 20 to get in];
